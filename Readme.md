@@ -49,7 +49,7 @@
 - [ ] "R u Buzzing" channel link: https://www.youtube.com/channel/UClpXdGYuIGI5AR6F6xkY81g
 
 # YouTube University 
-![alt text](./img/youtube.png =20x20) 
+![alt text](./img/youtube.png) 
 
 ### Make use of Youtube free resources 🎁 .
 
