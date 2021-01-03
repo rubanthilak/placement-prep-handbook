@@ -83,21 +83,21 @@
 # Project Activity 
 (_Optional_)
 
-## FullStack Web Devlopment 🕸
+## FullStack Web Development 🕸
 
 - [ ] JS Fundamentals : https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - [ ] Angular : https://angular.io/docs (or) VueJS : https://vuejs.org/v2/guide/
 - [ ] NodeJS : https://nodejs.org/en/
 - [ ] MongoDB : https://docs.mongodb.com/
 
-## Android & iOS Devlopment
+## Android & iOS Development
 
 - [ ] Dart : https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
 - [ ] Flutter : 
     - https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB
     - https://www.youtube.com/c/FilledStacks/playlists
 
-## RESTful API Devlopment
+## RESTful API Development
 - [ ] Django - Python Framework : https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
 - [ ] Firebase - Cloud Platform : https://www.youtube.com/playlist?list=PL0vfts4VzfNj28Xp5kmNAdIqABNGhTzKF
 
